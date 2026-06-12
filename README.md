@@ -1,4 +1,4 @@
-# azure-static-website
+
 # Azure Static Website Hosting
 
 ## Project Overview
@@ -29,7 +29,7 @@ This project demonstrates hosting a static website using Microsoft Azure Storage
 
 ## Live Website
 
-Paste Azure URL here
+[Paste Azure URL here](https://fejaanstaticwebsite.z29.web.core.windows.net/)
 
 ## Author
 
